@@ -97,7 +97,7 @@ Error Responses:
 
 ### List All Pastes
 
-GET /api/paste
+GET /api/pastes
 
 Returns a JSON list of recent pastes with metadata and expiry status.
 
